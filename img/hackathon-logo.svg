@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800px" height="830px" viewBox="0 0 800 830" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.7223817%" y1="50%" x2="98.7464126%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M442.754011,520 L245,520 L245,655.978449 L487.06588,655.978449 L487.06588,563.55914 L442.754011,563.55914 L442.754011,520 Z M398.647059,563.55914 L443.053476,563.55914 L443.053476,607.946237 L398.647059,607.946237 L398.647059,563.55914 Z" id="path-2"></path>
+        <path d="M485.110254,173.473118 L485.110254,81 L243.044374,81 L243.044374,216.978449 L442.754011,216.978449 L442.754011,173.473118 L485.110254,173.473118 Z M398.347594,131.784946 L442.754011,131.784946 L442.754011,176.172043 L398.347594,176.172043 L398.347594,131.784946 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Rectangle-Copy">
+                <use fill="#7ECBFF" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                <use fill-opacity="0.799999952" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <path d="M528.559909,81 L643.67062,81 L643.67062,658.032258 L550.368984,658.032258 L550.368984,614.344086 L506.750834,614.344086 L506.750834,125.387097 L550.368984,125.387097 L550.368984,81 L528.559909,81 Z" id="Rectangle-1273-Copy-49" fill="#2C95DD" sketch:type="MSShapeGroup"></path>
+            <path d="M126.508021,658.032258 L220.721925,658.032258 L220.721925,81 L83.802139,81 L83.802139,614.645161 L126.508021,614.645161 L126.508021,658.032258 Z" id="Rectangle-1273-Copy-59" fill="#2C95DD" sketch:type="MSShapeGroup"></path>
+            <text id="EMC-HACKATHON-Copy-38" sketch:type="MSTextLayer" font-family="Helvetica" font-size="66.5999966" font-weight="bold" fill="#2C95DD">
+                <tspan x="69" y="751.623656">EMC HACKATHON</tspan>
+            </text>
+            <rect id="Rectangle-1483-Copy-25" fill="#2C95DD" sketch:type="MSShapeGroup" x="242.925134" y="306.634409" width="241.240005" height="140.55914"></rect>
+            <rect id="Rectangle-1549-Copy-176" fill="#3999DD" sketch:type="MSShapeGroup" x="653.684492" y="613.645161" width="44.4064171" height="44.3870968"></rect>
+            <rect id="Rectangle-1549-Copy-179" fill="#3999DD" sketch:type="MSShapeGroup" x="638.882353" y="121.688172" width="44.4064171" height="44.3870968"></rect>
+            <rect id="Rectangle-1549-Copy-180" fill="#3999DD" sketch:type="MSShapeGroup" x="638.882353" y="199.365591" width="44.4064171" height="44.3870968"></rect>
+            <rect id="Rectangle-1549-Copy-181" fill="#3999DD" sketch:type="MSShapeGroup" x="716.593583" y="84.6989247" width="44.4064171" height="44.3870968"></rect>
+            <g id="Rectangle">
+                <use fill="#7ECBFF" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                <use fill-opacity="0.799999952" fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>
