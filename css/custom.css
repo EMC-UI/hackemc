@@ -2,9 +2,10 @@
 html { height: 100%; width: 100%; }
 body {
     background: url('../img/bg-1-2.jpg');
-    background-position: center;
+    background-position: left;
     background-size: contain;
     font-size: 16px;
+    color: #080808;
 }
 
 #contain {
@@ -28,6 +29,7 @@ body {
 
     padding: 1.5em;
     text-align: center;
+    border-top: 6px solid #E8AC42;
 }
 
 
