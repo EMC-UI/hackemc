@@ -34,7 +34,7 @@ h1, h2 {
     margin: 1.5em 0; }
 
 #splash {
-  max-width: 100%;
+  max-width: 30em;
   margin: 0 auto;
   padding: 1.5em;
   text-align: center;
@@ -44,13 +44,6 @@ h1, h2 {
   justify-content: space-between; }
   #splash div {
     color: #FFF; }
-
-#right {
-  width: 33vw;
-  text-align: center; }
-
-#center {
-  width: 65vw; }
 
 #logo {
   width: 20em; }

@@ -33,12 +33,13 @@ h1, h2, h3, h4, h5 {
     right: 0;
 
     overflow: hidden;
+
     > * { margin: 1.5em 0; }
 
 }
 
 #splash {
-    max-width: 100%;
+    max-width: 30em;
     margin: 0 auto;
 
     padding: 1.5em;
@@ -52,9 +53,7 @@ h1, h2, h3, h4, h5 {
 }
 
 
-#right { width: 33vw; text-align: center; }
 
-#center{ width: 65vw;}
 
 #logo { width: 20em;}
 header, footer {
