@@ -1,0 +1,104 @@
+
+html { height: 100%; width: 100%; }
+body {
+    background: #000;
+    background-position: left;
+    background-size: contain;
+    font-size: 16px;
+    color: #FFF;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Open Sans', sans-serif;
+    }
+
+    h1, h2 {
+        text-transform: uppercase;
+        text-shadow: 0 0 .3em rgba(250,250,250, .7);
+        animation-name: glow;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+    }
+
+#contain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    > * { margin: 1.5em 0; }
+
+}
+
+#splash {
+    max-width: 100%;
+    margin: 0 auto;
+
+    padding: 1.5em;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    div { color: #FFF; }
+}
+
+
+#right { width: 33vw; text-align: center; }
+
+#center{ width: 65vw;}
+
+#logo { width: 20em;}
+header, footer {
+
+}
+
+
+#vid-bg {
+    position: absolute;
+    min-width: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+    opacity: .5;
+    box-shadow: inset 0 2em 2em rgba(0,0,0,1);
+    }
+
+#reg-button {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em;
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-decoration: none;
+    text-decoration: none;
+    font-size: 1.3em;
+    background: #D8D8D8;
+
+    background-image: linear-gradient(140deg, #2597E1 0%, #147CD5 100%);
+    animation-name: glow;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    
+}
+
+small { display: block; margin-top: 2em; opacity: .8;}
+
+
+/// Animations
+
+@keyframes glow {
+    0% { text-shadow: 0 0 .3em rgba(250,250,250, .9); }
+    50% {text-shadow: 0 0 .1em rgba(250,250,250, .7);}
+    100% { text-shadow: 0 0 .3em rgba(250,250,250, .9); }
+    }
