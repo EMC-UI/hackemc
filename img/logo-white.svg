@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="373px" height="333px" viewBox="0 0 373 333" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="26" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="11" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.434 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-11" dy="0" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feComposite in="shadowBlurInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.435399683 0" in="shadowInnerInner2" type="matrix" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M144.243465,176 L65,176 L65,230 L162,230 L162,193.298282 L144.243465,193.298282 L144.243465,176 Z M126.569044,193.298282 L144.363466,193.298282 L144.363466,210.925364 L126.569044,210.925364 L126.569044,193.298282 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="11" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.434 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-11" dy="0" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feComposite in="shadowBlurInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.435399683 0" in="shadowInnerInner2" type="matrix" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M161,36.7230869 L161,0 L64,0 L64,54 L144.027118,54 L144.027118,36.7230869 L161,36.7230869 Z M126.232696,20.1678069 L144.027118,20.1678069 L144.027118,37.7948887 L126.232696,37.7948887 L126.232696,20.1678069 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="Group-8" transform="translate(52.000000, 49.000000)">
+            <g id="Rectangle-Copy" filter="url(#filter-2)" opacity="0.654034515">
+                <use fill-opacity="0.639999986" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <use fill="none" xlink:href="#path-3"></use>
+            </g>
+            <path d="M177.760597,8.75890917e-14 L224,5.44283099e-13 L224,231 L186.521195,231 L186.521195,213.510566 L169,213.510566 L169,17.7692308 L186.521195,17.7692308 L186.521195,0 L177.760597,0 Z" id="Rectangle-1273-Copy-49" fill="#FFFFFF"></path>
+            <path d="M17.1547414,231 L55,231 L55,5.44283099e-13 L0,1.06305293e-15 L0,213.631093 L17.1547414,213.631093 L17.1547414,231 Z" id="Rectangle-1273-Copy-59" fill="#FFFFFF"></path>
+            <rect id="Rectangle-1483-Copy-25" fill="#FFFFFF" x="64" y="91" width="96" height="56"></rect>
+            <rect id="Rectangle-1549-Copy-176" fill="#FFFFFF" x="237" y="213" width="18" height="18"></rect>
+            <rect id="Rectangle-1549-Copy-179" fill="#FFFFFF" x="222" y="17" width="18" height="18"></rect>
+            <rect id="Rectangle-1549-Copy-180" fill="#FFFFFF" x="222" y="47" width="18" height="18"></rect>
+            <rect id="Rectangle-1549-Copy-181" fill="#FFFFFF" x="253" y="2" width="18" height="18"></rect>
+            <g id="Rectangle" filter="url(#filter-4)" opacity="0.654034515">
+                <use fill-opacity="0.639999986" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <use fill="none" xlink:href="#path-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -44,9 +44,6 @@ h1, h2 {
   #splash div {
     color: #FFF; }
 
-#logo {
-  width: 20em; }
-
 #vid-bg {
   position: absolute;
   min-width: 100%;
@@ -65,21 +62,15 @@ h1, h2 {
   color: #FFF;
   font-family: 'Open Sans', sans-serif;
   font-weight: bolder;
-  text-transform: uppercase;
   font-decoration: none;
   text-decoration: none;
   font-size: 1.3em;
   background: #D8D8D8;
   box-shadow: 0 0.2em 0.2em rgba(0, 0, 0, 0.3);
-  background-image: linear-gradient(140deg, #2597E1 0%, #147CD5 100%);
-  transition: all .1s ease-in-out; }
+  background-image: linear-gradient(140deg, #2597E1 0%, #147CD5 100%); }
   #reg-button:hover {
     background-image: linear-gradient(140deg, #2597E1 0%, #147CD5 50%);
     box-shadow: 0 0.2em 0.2em rgba(0, 0, 0, 0.4); }
-  #reg-button .key {
-    animation-name: glow;
-    animation-duration: 3s;
-    animation-iteration-count: infinite; }
 
 small {
   display: block;
@@ -98,3 +89,16 @@ small {
     text-shadow: 0 0 0.1em rgba(250, 250, 250, 0.7); }
   100% {
     text-shadow: 0 0 0.3em rgba(250, 250, 250, 0.9); } }
+@keyframes img-blur {
+  0% {
+    -webkit-filter: blur(2em);
+    filter: blur(2em);
+    opacity: 1; }
+  50% {
+    -webkit-filter: blur(1em);
+    filter: blur(1em);
+    opacity: .7; }
+  100% {
+    -webkit-filter: blur(2em);
+    filter: blur(2em);
+    opacity: 1; } }
